@@ -1,0 +1,8 @@
+verilog isim_temp "iki_bir_mux.v"
+verilog isim_temp "otuziki_mux.v"
+verilog isim_temp "sekiz_uc_mux.v"
+verilog isim_temp "onalti_dort_mux.v"
+verilog isim_temp "otuziki_bes_odul.v"
+verilog isim_temp "readFile.v"
+verilog isim_temp "readFileTest.v"
+verilog isim_temp "C:/Xilinx/14.6/ISE_DS/ISE//verilog/src/glbl.v"

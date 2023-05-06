@@ -1,0 +1,8 @@
+verilog work "iki_bir_mux.v"
+verilog work "otuziki_mux.v"
+verilog work "sekiz_uc_mux.v"
+verilog work "onalti_dort_mux.v"
+verilog work "otuziki_bes_odul.v"
+verilog work "readFile.v"
+verilog work "readFileTest.v"
+verilog work "C:/Xilinx/14.6/ISE_DS/ISE//verilog/src/glbl.v"

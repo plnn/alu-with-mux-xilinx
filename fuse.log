@@ -1,0 +1,29 @@
+Running: C:\Xilinx\14.6\ISE_DS\ISE\bin\nt64\unwrapped\fuse.exe -intstyle ise -incremental -lib unisims_ver -lib unimacro_ver -lib xilinxcorelib_ver -o C:/Users/pc/Desktop/bit8memread/readFileTest_isim_beh.exe -prj C:/Users/pc/Desktop/bit8memread/readFileTest_beh.prj work.readFileTest work.glbl 
+ISim P.68d (signature 0x7708f090)
+Number of CPUs detected in this system: 4
+Turning on mult-threading, number of parallel sub-compilation jobs: 8 
+Determining compilation order of HDL files
+Analyzing Verilog file "C:/Users/pc/Desktop/bit8memread/iki_bir_mux.v" into library work
+Analyzing Verilog file "C:/Users/pc/Desktop/bit8memread/otuziki_mux.v" into library work
+Analyzing Verilog file "C:/Users/pc/Desktop/bit8memread/sekiz_uc_mux.v" into library work
+Analyzing Verilog file "C:/Users/pc/Desktop/bit8memread/onalti_dort_mux.v" into library work
+Analyzing Verilog file "C:/Users/pc/Desktop/bit8memread/otuziki_bes_odul.v" into library work
+Analyzing Verilog file "C:/Users/pc/Desktop/bit8memread/readFile.v" into library work
+Analyzing Verilog file "C:/Users/pc/Desktop/bit8memread/readFileTest.v" into library work
+Analyzing Verilog file "C:/Xilinx/14.6/ISE_DS/ISE//verilog/src/glbl.v" into library work
+Starting static elaboration
+Completed static elaboration
+Compiling module iki_bir_mux
+Compiling module otuziki_mux
+Compiling module sekiz_uc_mux
+Compiling module onalti_dort_mux
+Compiling module otuziki_bes_odul
+Compiling module readFile
+Compiling module readFileTest
+Compiling module glbl
+Time Resolution for simulation is 1ps.
+Waiting for 1 sub-compilation(s) to finish...
+Compiled 8 Verilog Units
+Built simulation executable C:/Users/pc/Desktop/bit8memread/readFileTest_isim_beh.exe
+Fuse Memory Usage: 29184 KB
+Fuse CPU Usage: 1622 ms

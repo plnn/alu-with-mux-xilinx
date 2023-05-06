@@ -1,0 +1,29 @@
+Command line:
+   ReadAndWriteTest_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  49254
+
+Fri Dec 06 10:48:55 2013
+
+
+ Elaboration Time: 0.592804 sec
+
+ Current Memory Usage: 1522.92 Meg
+
+ Total Signals          : 12539
+ Total Nets             : 8126
+ Total Signal Drivers   : 6123
+ Total Blocks           : 2066
+ Total Primitive Blocks : 1986
+ Total Processes        : 6125
+ Total Traceable Variables  : 23
+ Total Scalar Nets and Variables : 8254
+Total Line Count : 6134
+
+ Total Simulation Time: 0.670805 sec
+
+ Current Memory Usage: 1522.92 Meg
+
+Fri Dec 06 10:49:04 2013
+
